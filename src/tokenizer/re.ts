@@ -1,0 +1,11 @@
+export const TAG_NAME = /(script|template|style)/;
+export const LT = /</;
+export const GT = />/;
+export const SLASH = /\//;
+export const S = /\s+/;
+export const ALPHABETS = /\w+/;
+export const DIGITS = /\d+/;
+export const QUOTE = /"/;
+export const NO_QUOTE = /[^"]/;
+export const EQ = /=/;
+export const TEXT = /[^<>\/\s\w\d"=]*/;
