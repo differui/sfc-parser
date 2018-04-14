@@ -1,5 +1,5 @@
 import { Rule, TokenType } from '@/types';
-import * as re from '@/tokenizer/re';
+import * as re from '@/re';
 
 const rules: Rule[] = [
   {

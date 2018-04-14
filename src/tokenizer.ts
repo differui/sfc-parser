@@ -1,6 +1,6 @@
 import Lexer from 'lex';
 import { Token, TokenType } from '@/types';
-import rules from '@/tokenizer/rules';
+import rules from '@/rules';
 
 let index = 0;
 const tokens: Token[] = [];
