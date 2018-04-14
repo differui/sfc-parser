@@ -1,7 +1,7 @@
 {
-  "name": "sfc",
+  "name": "sfc-parser",
   "version": "0.0.1",
-  "description": "a tony vue sfc compiler implementation",
+  "description": "a tony vue sfc parser implementation",
   "main": "dest/bundle.js",
   "scripts": {
     "build": "./node_modules/.bin/rollup -c",
