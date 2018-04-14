@@ -1,6 +1,6 @@
 {
   "name": "sfc-parser",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "a tony vue sfc parser implementation",
   "main": "dest/bundle.js",
   "scripts": {
